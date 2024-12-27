@@ -1,0 +1,5 @@
+user can login
+user can post
+user can register
+user can edit
+user  can update 
